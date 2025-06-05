@@ -1,0 +1,108 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History of Fashion 1900-2000</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 2em;
+        }
+        .image-container {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 1em;
+        }
+        .image-container img {
+            max-width: 150px;
+            max-height: 200px;
+        }
+        .link {
+            color: blue;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>History of Fashion 1900-2000</h1>
+
+    <div class="section">
+        <h2>Fashion in 1900-1909</h2>
+        <div class="image-container">
+            <!-- Add images here -->
+        </div>
+        <p>Tall, stiff collars characterized the period, as did women's broad hats and full "Gibson Girl" hairstyles. A new, columnar silhouette introduced by the couturiers of Paris late in the decade signaled the approaching abandonment of the corset as an indispensable garment of fashionable women.</p>
+    </div>
+
+    <div class="section">
+        <h2>1910 Fashion</h2>
+        <div class="image-container">
+            <!-- Add images here -->
+        </div>
+        <p>Dresses took on a whole new dimension. Gone was the corseted waist, and in its place was the hobble skirt that mimicked the "harem" skirts of the Middle East. Paul Poiret, a popular designer of the time, is credited with this fashion movement heavily influenced by Eastern design and colors. Some skirts were so narrow that it was nearly impossible to move. For fear of splitting the skirt, women sometimes wore a length of cord to keep their legs from moving apart too much. It is not clear why they did this.</p>
+    </div>
+
+    <div class="section">
+        <h2>1925-1930 Fashion</h2>
+        <div class="image-container">
+            <!-- Add images here -->
+        </div>
+        <p>Most dresses and skirts rested just below the knee, most of the time above the ankle.</p>
+        <p><a href="#" class="link">Link</a></p>
+    </div>
+
+    <div class="section">
+        <h2>1930 Fashion</h2>
+        <div class="image-container">
+            <!-- Add images here -->
+        </div>
+        <p>When the stock market crashed in 1929, many people were laid off, impacting the purchase of glamorous clothing from the 1920s.  In the 1930s, clothing began to be mended and fixed before new clothing was bought. Furs and fabric flowers were used to fix the hem on a dress. Also, the hemlines were lowered a great deal down to the ankle, unlike in the 1920s when the hemline was at the knee.</p>
+        <p><a href="#" class="link">Link</a></p>
+    </div>
+
+    <div class="section">
+        <h2>1940 Fashion</h2>
+        <div class="image-container">
+            <!-- Add 1940s fashion image here -->
+        </div>
+        <p>Dresses in the 1940s were not very popular as the war had started. So women wore suits which was worth several dresses of every women that worked in the defense job. But dresses did not fade and after the war became popular. Cocktail dresses were called 'smarter than a day dress but not as formal as a dinner or evening dress'. Evening gowns were either full or tight, and the hem was usually 6-10 inches off the ground.</p>
+        <p><a href="#" class="link">Link</a></p>
+
+    </div>
+
+    <div class="section">
+        <h2>1950 Fashion</h2>
+        <div class="image-container">
+            <!-- Add 1950s fashion image here -->
+        </div>
+        <p>1950 fashion was very different from the fashion in 1940 as the style was full skirt, soft shoulders and a tight waist. This was to show off the bust and hourglass figure. This fashion trend had a phrase "make do and mend".</p>
+        <p><a href="#" class="link">Link</a></p>
+    </div>
+
+    <div class="section">
+        <h2>1960 Fashion</h2>
+        <div class="image-container">
+            <!-- Add 1960s fashion image here -->
+        </div>
+        <p>In 1960 London the bright, bold and fun inspire Mod fashion came around. The pastel colours of the 50's were gone and in came the bright colours, bold geometric shapes, boxy jackets and patent shoes with mohair suits for the boys. The popular model Twiggy became popular for her pixie crop and cartoonish eye makeup.</p>
+        <p><a href="#" class="link">Link</a></p>
+    </div>
+
+    <div class="section">
+        <h2>1970 Fashion</h2>
+        <div class="image-container">
+            <!-- Add 1970s fashion image here -->
+        </div>
+        <p>One of the major fashion trends in the 70's was trousers. Starting of flared and the bottom which was like bell bottom trousers. By the end of this period they began to narrow and become straight. The most used fabrics were Heavy Crepes, Wool Jersey Knits, Courtelle Jersey and Woven Polyester suiting like Trevira. The top colours for 70's were Emerald green, Apple green and bottle green.</p>
+        <p><a href="#" class="link">Link</a></p>
+    </div>
+
+</body>
+</html>
